@@ -38,12 +38,12 @@
 
 ![](https://i.imgur.com/35SjE32.png)
 
-4. ###购物车
+4. ### 购物车
 
 
 ![](https://i.imgur.com/5bczaKm.png)
 
-5. ###结账
+5. ### 结账
 
 
 ![](https://i.imgur.com/xPb2N4m.png)
