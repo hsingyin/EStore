@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.table tbody tr td{
+            vertical-align: middle;
+}
+.cartItemNum {
+	
+	text-align:center;
+}
+.totalMoney {
+	font-size:22px;
+}
+   
