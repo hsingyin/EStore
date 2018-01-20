@@ -25,25 +25,25 @@
 
 
 
-### 一、首页
+- ### 1、首页
 
 
 ![](https://i.imgur.com/2yIrtBL.png)
 
-2. ### 分页
+- ### 2、分页
 
 ![](https://i.imgur.com/IuFmvYt.png)
 
-3. ### 范围筛选
+- ### 3、范围筛选
 
 ![](https://i.imgur.com/35SjE32.png)
 
-4. ### 购物车
+- ### 4、购物车
 
 
 ![](https://i.imgur.com/5bczaKm.png)
 
-5. ### 结账
+- ### 5、结账
 
 
 ![](https://i.imgur.com/xPb2N4m.png)
