@@ -23,25 +23,27 @@
 
 # 二、预览
 
-> ### 首页
+
+
+1. ### 首页
 
 
 ![](https://i.imgur.com/2yIrtBL.png)
 
-> ### 分页
+2. ### 分页
 
 ![](https://i.imgur.com/IuFmvYt.png)
 
-> ### 范围筛选
+3. ### 范围筛选
 
 ![](https://i.imgur.com/35SjE32.png)
 
-> ###购物车
+4. ###购物车
 
 
 ![](https://i.imgur.com/5bczaKm.png)
 
-> ###结账
+5. ###结账
 
 
 ![](https://i.imgur.com/xPb2N4m.png)
@@ -51,12 +53,15 @@
 > 因为时间问题没来得及增加和完善的功能和页面，可能会在之后提交更新，在此之前大家可以自己完善
 
 - 完善收藏功能
+
 	![](https://i.imgur.com/od9lZb4.png)
+
 - 重写商品详情页
 	
 - 增加登陆注册功能
 
 - 增加个人中心功能
+
 	![](https://i.imgur.com/YijyssV.png)
 
 
